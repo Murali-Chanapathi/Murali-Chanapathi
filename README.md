@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murali Krishna</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Angular, Spring Boot**
 
